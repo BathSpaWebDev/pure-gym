@@ -1,0 +1,56 @@
+/* General */
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+section {
+    padding: 1rem 0;
+}
+section h3 {
+    margin-top:0;
+}
+
+ /* Top section */
+
+.top-section {
+    padding-bottom: 0;
+}
+
+/* Mailing list */
+.mailing-list {
+    background-color:blue;
+    padding: 1rem;
+    color: #fff;
+}
+
+/* Contact */
+.contact {
+    margin-bottom: 1rem;
+}
+
+.contact a {
+    text-decoration: none;
+    background-color:#e9e9e9;
+    color: #444;
+    padding: 1rem;
+}
+
+/* Footer */
+.main-footer {
+    background-color: #444;
+    color: #fff;
+    padding: 1rem;
+}
+
+/* Prices */
+.prices {
+    display:flex;
+    gap: 1rem;
+    margin-bottom:1rem;
+}
+.prices div {
+    background-color: #444;
+    color: #fff;
+    padding: 1rem;
+}
